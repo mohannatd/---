@@ -15,9 +15,7 @@ test-data : **output.csv**
 
 #### Score Function :
 
-<img width="500<img width="509" alt="image" src="https://user-images.githubusercontent.com/74386667/119407227-319a3380-bcf9-11eb-92e3-305536b3e9a8.png">
-![Uploading image.png…]()
-" alt="image2" src="https://raw.githubusercontent.com/mohannatd/---/main/score_funtion.png">
+<img width="509" alt="image" src="https://user-images.githubusercontent.com/74386667/119407227-319a3380-bcf9-11eb-92e3-305536b3e9a8.png">
 
 #### Different Models' Smape-Score :
 
