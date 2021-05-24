@@ -5,7 +5,7 @@ training-data : **train.csv**
 
 test-data : **output.csv**
 
-<img width="100" alt="image" src="https://user-images.githubusercontent.com/74386667/119402687-87b7a880-bcf2-11eb-9d2c-d2af24b4d9a1.png">
+<img width="100" alt="image1" src="https://user-images.githubusercontent.com/74386667/119402687-87b7a880-bcf2-11eb-9d2c-d2af24b4d9a1.png">
 
 #### Preprocessing Steps :
 
@@ -15,11 +15,13 @@ test-data : **output.csv**
 
 #### Score Function :
 
-![](score_function.png)
+<img width="500<img width="509" alt="image" src="https://user-images.githubusercontent.com/74386667/119407227-319a3380-bcf9-11eb-92e3-305536b3e9a8.png">
+![Uploading image.png…]()
+" alt="image2" src="https://raw.githubusercontent.com/mohannatd/---/main/score_funtion.png">
 
 #### Different Models' Smape-Score :
 
-<img width="1000" alt="image" src="https://github.com/mohannatd/---/blob/main/models_score.png?raw=true">
+<img width="1000" alt="image3" src="https://github.com/mohannatd/---/blob/main/models_score.png?raw=true">
 
 ## Requirements :
 
